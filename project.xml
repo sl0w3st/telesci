@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="telesci" package="com.sample.sampleproject" version="1.0.0" />
+	<app main="Main" path="Export" file="telesci" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="minimalcomps" />
+
+	<window width="400" />
+    <window height="100" />
+	<window background="#999999" />
+	
+	
+</project>
